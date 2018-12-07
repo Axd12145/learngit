@@ -17,4 +17,8 @@ Creating a new branch dev
 
 CheckOut to dev
 
+
 修复a bug
+
+stash task
+
