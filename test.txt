@@ -7,3 +7,5 @@ hejeje
 大胃王大多爱我的
 
 creating a new branch is quick.
+
+Creating a new branch is quick and simple
